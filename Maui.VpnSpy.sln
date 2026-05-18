@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11806.211 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.VpnSpy", "src\Maui.VpnSpy\Maui.VpnSpy.csproj", "{B5A4DF2C-5F6A-4C73-9D5E-9F4F4A5B7E12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C1A5DF2C-5F6A-4C73-9D5E-9F4F4A5B7E99}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A4DF2C-5F6A-4C73-9D5E-9F4F4A5B7E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A4DF2C-5F6A-4C73-9D5E-9F4F4A5B7E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A4DF2C-5F6A-4C73-9D5E-9F4F4A5B7E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A4DF2C-5F6A-4C73-9D5E-9F4F4A5B7E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F5A2A0-AB7C-4F25-BB8C-7D5A82B4E61D}
+	EndGlobalSection
+EndGlobal
